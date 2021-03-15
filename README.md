@@ -25,5 +25,5 @@ Deploy with app name : <b>`gpa-express-api-YourStudentCode`</b>
 **Write your Heroku deploy link here** : 
 
 https://gpa-express-api-620610793.herokuapp.com
-*ใน heroku มันหาไฟล์ไม่เจอเหมือนตอนสอบเลยครับ ผมจะก็อปงานที่เสร็จเเล้วไปไว้ใน account ตัวเอง
+*ใน heroku มันหาไฟล์ไม่เจอเหมือนตอนสอบเลยครับ ผมจะmergeงานที่เสร็จเเล้วไปไว้ใน account ตัวเอง
 *เเล้วจะใช้ไฟล์นั้น deploy เเทนนะครับ
